@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cafe Sales Analysis Project
 
 ## 1. Background and Overview
@@ -11,3 +12,8 @@
 ## 4. Insights deep dive
 
 ## 5. Recommendations
+=======
+# Cafe-sales-project
+
+[Tableau Dashboard](https://public.tableau.com/app/profile/kensuke.umakoshi/viz/coffee_17365392664280/Dashboard1)
+>>>>>>> 2b499beaef0895006b050b746364d38392341807
