@@ -42,18 +42,18 @@ This project aims to analyze the performance and sales trends of coffee shops in
 
 ## 4. Insights deep dive: [Jupyter Notebook](EDA/EDA.ipynb)
 Coffee and tea are the most top-performing categories, contributing 35% and 25% to overall sales, respectively. In contrast, coffee beans and branded categories, despite generating significant gross profits, contribute only 8.5% and 3.7%.
-![alt text](image-4.png)
-![alt text](image-3.png)
+![alt text](image/image-4.png)
+![alt text](image/image-3.png)
 
 
 In terms of store performance, Astoria (store_id 3) consistently achieves steady sales, while Lower Manhattan (store_id 5) exhibits the highest performance gap. Notably, Lower Manhattan and Hell's Kitchen (store_id 8) experienced significant sales drops in June, with declines of 30% and 33%, respectively.
-![alt text](image-1.png)
+![alt text](image/image-1.png)
 
 Regarding the impact of weather on performance, clear weather leads to an average sales increase of 5% compared to periods with rain or snow.
-![alt text](image-2.png)
+![alt text](image/image-2.png)
 
 Time influences the sales 
-![alt text](image.png)
+![alt text](image/image.png)
 ## 5. Recommendations
 
 
