@@ -6,14 +6,14 @@ This project aims to analyze the performance and sales trends of coffee shops in
 
 #### Tools:
 - Excel
-- Tableau
+- Tableau 
 - Python 
-- Jupyter Notebook
+- Jupyter Notebook  
 
 
 ## 2. Data structure
 
-![alt text](image/ER.png) 
+<img src="image/ER.png" alt="Sample Image" width="600" height="300">
 
 ### Sales Table:
 - The central table, capturing details about transactions, including store information, products sold, and their pricing. Provides data for analyzing sales trends, product performance, and shop performance in sales.
@@ -40,9 +40,10 @@ This project aims to analyze the performance and sales trends of coffee shops in
 ## 4. Insights deep dive: [Jupyter Notebook](EDA/EDA.ipynb)
 Coffee and tea are the most top-performing categories, contributing 35% and 25% to overall sales, respectively. In contrast, coffee beans and branded categories, despite generating significant gross profits, contribute only 8.5% and 3.7%. This suggests that increasing unit sales of coffee beans and brand category products will be a major key to improving profit margins in the future.
 
-![alt text](image/image-4.png)
 
-![alt text](image/image-3.png)
+<img src="image/image-4.png" alt="Sample Image" width="800" height="500">
+
+<img src="image/image-3.png" alt="Sample Image" width="800" height="500">
 
 
 In terms of store performance, Astoria (store_id 3) experienced relatively consistent sales performance, while Lower Manhattan (store_id 5) exhibits the highest performance gap. Notably, Lower Manhattan and Hell's Kitchen (store_id 8) experienced significant sales drops in June, with declines of 30% and 33%, respectively. The overall trend also shows a decline in sales and customer counts from January through June, and it is necessary to identify the factors behind this decline and to examine the factors behind the dramatic slump in June based on further analysis.
