@@ -2,7 +2,7 @@
 
 ## 1. Background and Overview
 
-This project aims to analyze the performance and sales trends of coffee shops in 2023, using sales records and additional supplemental datasets. The goal is to uncover valuable insights that can help improve business operations, and profitability. The analysis was performed through **Exploratory Data Analysis (EDA)** in [Excel](image/sales-weather-excel.png) and [Python](EDA/EDA.ipynb), and the results were visualized using an interactive [Tableau dashboard](https://public.tableau.com/app/profile/kensuke.umakoshi/viz/coffee_17365392664280/Dashboard1), providing a comprehensive view of key performance indicators (KPIs) like Sales Growth Rate, Average Transaction Value, and Gross Profit Margin.
+This project aims to analyze the performance and sales trends of coffee shops in 2023, using sales records and additional supplemental datasets. The goal is to uncover valuable insights that can help improve business operations, and profitability. The project was performed through **Exploratory Data Analysis (EDA)** in [Excel](image/sales-weather-excel.png) and [Python](EDA/EDA.ipynb), analyzed further in Python [Jupyter Notebook](sales_analysis/sales_analysis.ipynb). Additionally, the results were visualized using an interactive [Tableau dashboard](https://public.tableau.com/app/profile/kensuke.umakoshi/viz/coffee_17365392664280/Dashboard1), providing a comprehensive view of key performance indicators (KPIs) like Sales Growth Rate, Average Transaction Value, and Gross Profit Margin.
 
 #### Tools:
 - Excel
@@ -37,7 +37,7 @@ This project aims to analyze the performance and sales trends of coffee shops in
 
 - The clear weather led to an increase in profit of 5%.
 
-## 4. Insights deep dive: [Jupyter Notebook](EDA/EDA.ipynb)
+## 4. Insights deep dive: [Jupyter Notebook](sales_analysis/sales_analysis.ipynb)
 Coffee and tea are the most top-performing categories, contributing 35% and 25% to overall sales, respectively. In contrast, coffee beans and branded categories, despite generating significant gross profits, contribute only 8.5% and 3.7%. This suggests that increasing unit sales of coffee beans and brand category products will be a major key to improving profit margins in the future.
 
 
