@@ -30,8 +30,7 @@ This project aims to analyze the performance and sales trends of coffee shops in
 
 ## 3. Summary
 
-Sales dropped by 38% from January to June but recovered with a 40% increase by December. Coffee and Tea were the top-performing categories with high order quantities but low gross profit margins. In contrast, Coffee Beans, despite generating the highest gross profits, contributed only 8.5% to the total. Astoria (Store ID: 3) showed consistent performance, but Lower Manhattan (Store ID: 5) and Hell's Kitchen (Store ID: 8) experienced sales declines of 30% and 33%, respectively, in June. Clear weather contributed to a 5% increase in overall profits.
-
+Sales dropped by 38% from January to June but recovered with a 40% increase in December. Coffee and tea were the top-performing categories with high order quantities but low gross profit margins. Despite generating the highest gross profits, Coffee Beans contributed only 8.5% to the total. Astoria (Store ID: 3) showed consistent performance, but Lower Manhattan (Store ID: 5) and Hell's Kitchen (Store ID: 8) experienced sales declines of 30% and 33%, respectively, in June. Regarding weather condition influence on the performance, clear weather contributed to a 5% increase in overall profits compared to other weather conditions.
 
 
 
