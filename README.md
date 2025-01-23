@@ -29,13 +29,12 @@ This project aims to analyze the performance and sales trends of coffee shops in
 - Contains cost-related data for various items. Enables profitability analysis by combining cost data with sales figures.
 
 ## 3. Summary
-- From January to June, sales decreased by 38%. In spite of this, sales gradually increased after June, showing a 40% increase by December.
 
-- Coffee and Tea are the top-performing categories, which have low gross profit and top order quantity. Coffee beans category has greatest gross profits, however contribute only 8.5% of profits.
+Sales dropped by 38% from January to June but recovered with a 40% increase in December. Coffee and tea were the top-performing categories with high order quantities but low gross profit margins. Despite generating the highest gross profits, Coffee Beans contributed only 8.5% to the total. Astoria (Store ID: 3) showed consistent performance, but Lower Manhattan (Store ID: 5) and Hell's Kitchen (Store ID: 8) experienced sales declines of 30% and 33%, respectively, in June. Regarding weather condition influence on the performance, clear weather contributed to a 5% increase in overall profits compared to other weather conditions.
 
-- Astoria (store_id 3) performed contantly, however, Lower Manhattan(store_id 5) and Hell's Kitchen (store_id 8) decreased sales in June 30% and 33%, respectively.
 
-- The clear weather led to an increase in profit of 5%.
+
+
 
 ## 4. Insights deep dive: [Jupyter Notebook](sales_analysis/sales_analysis.ipynb)
 Coffee and tea are the most top-performing categories, contributing 35% and 25% to overall sales, respectively. In contrast, coffee beans and branded categories, despite generating significant gross profits, contribute only 8.5% and 3.7%. This suggests that increasing unit sales of coffee beans and brand category products will be a major key to improving profit margins in the future.
